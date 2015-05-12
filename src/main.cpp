@@ -9,5 +9,8 @@ int main()
 
 	hello.imprime2();
 
+	hello.imprime2();
+
+
 	return 0;
 }
